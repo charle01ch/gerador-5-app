@@ -1,0 +1,5 @@
+{
+  "name": "AppGen AI",
+  "description": "A powerful web tool that generates online applications and sales pages from simple text prompts. It uses the Google Gemini API to interpret your ideas and creates a live, interactive preview of the user interface.",
+  "requestFramePermissions": []
+}
